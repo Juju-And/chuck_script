@@ -1,4 +1,4 @@
-# Weather plots
+# Chuck script
 
 This is a simple Python application intended to raffle Chuck Norris jokes from the database.
 

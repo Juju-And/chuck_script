@@ -1,6 +1,6 @@
 # Chuck script
 
-This is a simple Python application intended to raffle Chuck Norris jokes from the database.
+This is a simple Python application intended to raffle Chuck Norris jokes from the database (http://api.icndb.com/jokes/random)
 
 ## Getting Started
 

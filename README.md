@@ -23,3 +23,10 @@ $ python3 chuck_sctipt.py
 ```
 
 the other instructions would be presented in the terminal (getting a new joke or quitting).
+
+
+In order to be able to present jokes on Slack, slack_token should be updated with channels legacy-token:
+
+```
+    slack_token = os.environ.get('SLACK_TOKEN')
+```
